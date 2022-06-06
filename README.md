@@ -1,19 +1,26 @@
-# ts-node-starter
+# csv2markdown
 
-TEXT
+CLI tool to convert data from a CSV file into a Markdown file with a table.
 
-## ❯ Features
+![Showcase](./animation.gif)
 
-- TEXT
+## Installation
 
-## ❯ Installation
+### npm
 
 ```bash
-TEXT
+npm install --global csv2markdown
 ```
 
-## ❯ Usage
+### Yarn
 
-```typescript
-// TEXT
+```bash
+yarn global add csv2markdown
+```
+
+## Usage
+
+```bash
+csv2markdown -i file.csv -o file.md
+csv2markdown --input file.csv --output file.md
 ```

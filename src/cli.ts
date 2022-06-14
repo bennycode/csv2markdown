@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import {program} from '@caporal/core';
 import fs from 'node:fs';
 import path from 'node:path';

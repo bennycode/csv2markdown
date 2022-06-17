@@ -1,3 +1,9 @@
+## 1.0.0 (2022-06-17)
+
+##### Bug Fixes
+
+- Await processing files ([acec80c0](https://github.com/bennycode/csv2markdown/commit/acec80c02ade12be7e4027d9edb945d566232b5f))
+
 #### 0.0.2 (2022-06-14)
 
 ##### Bug Fixes

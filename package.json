@@ -87,5 +87,5 @@
     "test:coverage": "yarn test --coverage",
     "test:types": "yarn lint:types"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

@@ -60,6 +60,9 @@
     "type": "git",
     "url": "git+https://github.com/bennycode/csv2markdown.git"
   },
+  "resolutions": {
+    "@caporal/core/lodash": "4.x.x"
+  },
   "scripts": {
     "build": "tsc",
     "changelog:commit": "git add CHANGELOG.md && git commit -m \"docs: updated CHANGELOG.md\"",

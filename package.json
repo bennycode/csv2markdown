@@ -13,7 +13,7 @@
   "description": "CLI tool to convert data from a CSV file into a Markdown file with a table.",
   "devDependencies": {
     "@types/jest": "28.1.6",
-    "@types/node": "18.7.14",
+    "@types/node": "18.7.23",
     "@typescript-eslint/eslint-plugin": "5.36.1",
     "@typescript-eslint/parser": "5.36.1",
     "cross-env": "7.0.3",
